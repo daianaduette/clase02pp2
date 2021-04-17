@@ -2,5 +2,6 @@
 2 git commit -m "el mensaje del commit"
 3 git push
 
-nota : comando git clone se utiliza una unica vez por cada repositorio en una maquina mas alla de que lo puede utilizar varias veces.
-comando status : se ejecuta las veces que uno quiera y en el momento que uno quiera 
+Nota :
+Comando Git Clone se utiliza una unica vez por cada repositorio en una maquina mas alla de que lo puede utilizar varias veces.
+Comando Status : se ejecuta las veces que uno quiera y en el momento que uno quiera 
