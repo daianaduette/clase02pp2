@@ -1,6 +1,7 @@
+
 <?php
 
-$precio = rand (1,100);
+$precio = rand (1 , 100);
 
 $precioMasIva = $precio * 1.21;
 
