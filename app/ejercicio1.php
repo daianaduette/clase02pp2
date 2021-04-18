@@ -2,7 +2,7 @@
 
 $edad = 15;
 
-if (edad<18){
+if ($edad<18){
     echo "Es menor de edad";
 }
 else{
