@@ -3,7 +3,7 @@
 
 <?php
 
-$mes=5;
+$mes="5";
 
 switch($mes){
     case "1":
