@@ -1,6 +1,4 @@
 
-//al ingresar un mes del año informar si es invierno, verano, otoño o primavera. 
-
 <?php
 
 $mes="5";
