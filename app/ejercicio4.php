@@ -13,7 +13,7 @@ if ($numero2 > $numero3){
     echo "es el numero mayor " .$numero2;
 
 }
-if ($numero 3 > $numero2 && $numero3 > $numero1){
+if ($numero3 > $numero2 && $numero3 > $numero1){
     echo "es el numero mayor" .$numero3;
 }
 
