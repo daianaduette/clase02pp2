@@ -23,7 +23,7 @@ switch($mes){
     break;
     case "6":
         echo "invierno";
-    break:
+    break;
     case "7":
         echo "invierno";
     break;
