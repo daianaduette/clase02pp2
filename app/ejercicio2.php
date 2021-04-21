@@ -1,13 +1,13 @@
 
 <?php
 
-$precio = "100";
+$precio = "1.99";
 
-$precioMasIva = $precio * 1.21;
+$precioMasIva = ($precio * 1.21);
 
 echo "Precio sin Iva" . $precio;
 
-echo "Precio con Iva" . $precioMasIva";
+echo "Precio con Iva" . $precioMasIva;
 
 
 
