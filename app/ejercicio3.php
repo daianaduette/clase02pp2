@@ -3,40 +3,46 @@
 
 <?php
 
-$mes= rand (1 , 12);
+$mes= 5;
 
 switch($mes)
 {
-    case 1 = "Verano";
+    case 1:
+     echo "Verano";
     break;
-    case 2 :"Verano";
+    case 2 :
+        echo "Verano";
     break;
-    case 3 : "Otoño";
+    case 3 : 
+        echo "Otoño";
     break;
-    case 4 : "otoño";
+    case 4 : 
+        echo "otoño";
     break;
-    case 5 : "otoño";
+    case 5 : 
+        echo "otoño";
     break;
-    case 6 : "invierno";
+    case 6 :
+        echo "invierno";
     break:
-    case 7 : "invierno";
+    case 7 :
+        echo "invierno";
     break;
-    case 8 : "invierno";
+    case 8 : 
+        echo "invierno";
     break;
-    case 9 : "primavera";
+    case 9 : 
+        echo "primavera";
     break;
-    case 10 : "primavera";
+    case 10 : 
+        echo "primavera";
     break;
-    case 11 : "primavera";
+    case 11 :
+        echo "primavera";
     break;
-    case 12 : "verano";
+    case 12 :
+        echo "verano";
     break;
 
 }
-if (mes >=1 && mes <=12){
-
-   echo ("el mes pertenece a la estacion ".$mes .$estacion);
-
-}
-
 ?>
