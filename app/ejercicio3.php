@@ -17,7 +17,7 @@ switch($mes){
         echo "otoño";
     break;
     case "5": 
-        echo "otoño";
+        echo "Mes de mayo es otoño";
     break;
     case "6":
         echo "invierno";
