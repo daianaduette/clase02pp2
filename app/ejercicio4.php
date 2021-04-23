@@ -4,19 +4,25 @@ $numero1 = 10;
 $numero2 = 20;
 $numero3 = 30;
 
-if($numero1 > $numero2){
-    echo "El numero mayor de los tres es :" .$numero1;
 
+
+if($numero1 > $numero2 && $numero1 > $numero3)
+{
+      $numMayor = $numero1;
 }
 
-if ($numero2 > $numero3){
-    echo "El numero mayor de los tres es: " .$numero2;
-
+else
+{
+     if ($numero2 > $numero3)
+     {
+        $numMayor = $numero2;
+     }
+{
+else
+{
+        $numMayor = $numero3;
 }
-if ($numero3 > $numero2 && $numero3 > $numero1){
-    echo "El numero mayor de los tres es: " .$numero3;
+  
 }
-
-
-
+echo "El numero mayor es :" .$numMayor;
 ?>
