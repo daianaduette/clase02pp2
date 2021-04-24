@@ -14,9 +14,7 @@ echo "3 Cataratas</br>";
 
 switch($clima){
     case 1: 
-        echo "Hace Frio";
-        break;
-     case 2:
+    case 2:
         echo "Hace Frio";
         break;
       case 3:
