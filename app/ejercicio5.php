@@ -5,9 +5,6 @@
 
 $edad = rand (1,100);
 
-echo "14 es un niño";
-echo "17 es un adolescente";
-echo "18 es mayor";
 
 switch ($edad)
 {
