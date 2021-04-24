@@ -7,7 +7,7 @@ en la opcion seleccionada*/
 
 $clima = rand (1,3) ;
 
-echo "1 Bariloche";
+echo "1 Bariloche</br>";
 echo "2 Ushuaia";
 echo "3 Cataratas";
 
