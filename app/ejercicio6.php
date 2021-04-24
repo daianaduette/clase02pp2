@@ -16,7 +16,6 @@ switch($clima){
     case 1: 
     case 2:
         echo "En Bariloche y Ushuaia : Hace Frio";
-        break;
       case 3:
         echo "En Cataratas : Hace Calor";     
         break;
