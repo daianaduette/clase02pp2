@@ -8,8 +8,8 @@ en la opcion seleccionada*/
 $clima = rand (1,3) ;
 
 echo "1 Bariloche</br>";
-echo "2 Ushuaia";
-echo "3 Cataratas";
+echo "2 Ushuaia</br>";
+echo "3 Cataratas</br>";
 
 
 switch($clima){
