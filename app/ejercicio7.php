@@ -19,6 +19,10 @@ $numero3 = 10;
 
 $medio = 8;
 
+echo "numero 1 : 6";
+echo "numero 2 : 8";
+echo "numero 3 : 10";
+
 if ($numero1 > $numero2)
 {
   $medio = $numero1;
