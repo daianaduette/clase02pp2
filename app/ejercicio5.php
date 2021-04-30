@@ -5,7 +5,6 @@
 
 $edad = rand (1,100);
 
-
 switch ($edad)
 {
 case 1:
@@ -29,10 +28,9 @@ case 16:
 case 17:
     echo "Es un adolescente";
     break;
- case 18:
+ default:
     echo "Es mayor";
     break;
-
 }
 
 ?>
