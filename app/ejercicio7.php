@@ -27,12 +27,12 @@ if ($numero1 > $numero2)
 if ( $medio > $numero3)
 {
     $medio = $numero3;
-    echo "numero del medio es" .$numero3;
+    echo "numero del medio es :" .$numero3;
 }
 else
 {
  $medio = $numero2;
-  echo "numero del medio es" .$numero2;
+  echo "numero del medio es :" .$numero2;
 }
 
 
