@@ -91,7 +91,8 @@ function mostrarResultado($resultado)
     echo "<br>el resultado es :" .$resultado;
 }
 
-
+Calcular(50,50,"/"); //prueba de llamar a la funcion calcular
+Calcular(50,50,"+");
 
 
 ?>
