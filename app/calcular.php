@@ -1,5 +1,6 @@
 <?php
 /*
+            Ejercicio Nª13
  1 Funciòn : Sumar -Parametros : numero1 y numero2
  2 funciòn : Dividir-Parametros : numero1 y numero2
  3 Funciòn : Retornar si es cero : true o false -cero: true, no es cero: False
@@ -49,7 +50,7 @@ function retornarSiEsCero ($numeroingresado)
         return true;
     }
 
-        else
+    else
         {
             return false;
         }
@@ -67,18 +68,18 @@ function Calcular($numero1, $numero2 , $operador)
 {
 switch ($operador)
 {
-    case '+' :
+    case '+' : //caso suma
         $resultado = sumar($numero1,$numero2);
         mostrarResultado($resultado);
         break;
 
 
-     case '/' : 
+     case '/' : //caso dividir
         $resultado = dividir($numero1, $numero2);
         mostrarResultado($resultado);
          break;
 
-        default:
+        default: //por defecto
             echo "error";
         
 }
@@ -90,7 +91,6 @@ function mostrarResultado($resultado)
     echo "<br>el resultado es :" .$resultado;
 }
 
-Calcular (3, 2, "+");
 
 
 
