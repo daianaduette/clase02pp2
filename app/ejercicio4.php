@@ -3,6 +3,7 @@
 $numero1 = 10;
 $numero2 = 20;
 $numero3 = 30;
+$numMayor = " ";
 
 
 
@@ -20,7 +21,7 @@ else
 {
 else
 {
-        $numMayor = $numero3;
+     $numMayor = $numero3;
 }
   
 }
